@@ -1,6 +1,6 @@
 # ♟️Terminally Chess CPP (Chess game + engine)
 
-#### *Have you ever found yourself with a TTY or terminal and a strong urge to play Chess? Well this repo is the answer!<br><br> This program provides you with a (mostly) fully-functional:*
+#### *Have you ever found yourself with a TTY or terminal and a strong urge to play Chess? Well this repo is the answer!<br><br> This program provides you with a (mostly) functional:*
 * TUI chess board
 * Chess move validator
 * Possible move summary for each piece
